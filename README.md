@@ -1,105 +1,162 @@
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/particles.gif" width="100%" alt="Particle Animation" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&random=false&width=500&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Turning+Data+into+Insights+%F0%9F%92%A1" alt="Typing SVG" /></a>
-</p>
-
-<h3 align="center">A passionate Data Scientist focused on building intelligent systems, automating workflows with LLMs, and extracting meaning from raw data.</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/faizan-muktar-shaikh-284135219" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=00E676&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=500&amp;lines=Hello%2C+I'm+Faizan+%F0%9F%91%8B;Aspiring+AI+Engineer+%F0%9F%A4%96;Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Turning+Data+into+Insights+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</p>
+
+<pre align="center">
+  ███████╗ █████╗ ██╗███████╗ █████╗ ███╗   ██╗
+  ██╔════╝██╔══██╗██║╚══███╔╝██╔══██╗████╗  ██║
+  █████╗  ███████║██║  ███╔╝ ███████║██╔██╗ ██║
+  ██╔══╝  ██╔══██║██║ ███╔╝  ██╔══██║██║╚██╗██║
+  ██║     ██║  ██║██║███████╗██║  ██║██║ ╚████║
+  ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+</pre>
+
+<h3 align="center">Building intelligent systems · Automating with LLMs · Extracting meaning from data</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/faizansk25/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:faizansk9292@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/iam_faizan_25" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/faizansk25" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  </a>
+  <!-- TODO: Replace the href below with your Twitter URL, or delete this line -->
+  <a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"/>
+  </a>
+  <!-- TODO: Replace the href below with your Portfolio URL, or delete this line -->
+  <a href="https://your_portfolio_url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00E676&height=2&section=header" width="100%"/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqfel8y8x5r09upjnpmz5j2rbq1ioc&rid=giphy.gif&ct=s" width="25"> &nbsp;About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Robot.png" width="30" /> &nbsp;About Me
 
 ```yaml
 name: Faizan Muktar Shaikh
-role: Aspiring AI Engineer & Data Scientist
-location: India
-current_focus: Deep Learning, LLMs, Prompt Engineering
-internships: 3-Month Data Science, 1-Month AI/ML
-ask_me_about: Python, Machine Learning, Data Analytics
+title: Aspiring AI Engineer & Data Scientist
+location: India 🇮🇳
+education: B.E. in Computer Science (Pursuing)
+current_focus: Deep Learning, LLMs, Prompt Engineering, MLOps
+internships:
+  - 3-Month Project-Based Data Science Internship
+  - 1-Month AI/ML Internship
+ask_me_about: Python, Machine Learning, Data Analytics, LLMs
+hobbies: 📚 Reading tech blogs · 🎮 Gaming · 🏏 Cricket · ✍️ Writing
+```
 
-🌱 I’m currently advancing my skills in Deep Learning and Large Language Models (LLMs).
-💡 Passionate about turning raw data into actionable insights and automating workflows with AI.
-📫 How to reach me: faizan-muktar-shaikh-284135219 on LinkedIn or email me!
-⚡ Fun fact: I teach machines to learn, so I don't have to!
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+- 🔭 I’m currently working on **end-to-end ML pipelines** and **LLM-powered applications**.
+- 🌱 Advancing my skills in **Deep Learning**, **Transformers**, and **Cloud Deployment (AWS/GCP)**.
+- 👯 I’m looking to collaborate on **open-source AI/ML projects** and **hackathons**.
+- 💬 Ask me about **Python, Pandas, Scikit-Learn, or anything data!**
+- 📫 How to reach me: **faizansk9292@gmail.com**
+- ⚡ Fun fact: *I once taught a neural network to generate cricket commentary – it was hilarious!*
 
-<img src="https://media0.giphy.com/media/Ll22fJD36ZvCgtp84L/giphy.gif?cid=ecf05e4703a0g8w5qa8m0yq7vb7oyw5rb7bxbh4r0n3km4k5&rid=giphy.gif&ct=s" width="35"> &nbsp;Tech Stack & Tools
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00E676&height=2&section=header" width="100%"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> &nbsp;Tech Stack & Tools
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode,&perline=8" alt="Tech Stack Icons" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="keras"/>
-<img src="https://img.shields.io/badge/Matplotlib-1152A3?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
-
-<img src="https://media.giphy.com/media/iY8CRBxQExODEPbPtm/giphy.gif" width="35"> &nbsp;Featured AI & Data Projects
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=faizansk25&repo=YOUR_REPO_1&theme=dark&title_color=00E676&icon_color=58A6FF&bg_color=0D1117&border_color=30363D" alt="Project 1"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=faizansk25&repo=YOUR_REPO_2&theme=dark&title_color=00E676&icon_color=58A6FF&bg_color=0D1117&border_color=30363D" alt="Project 2"/>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=faizansk25&repo=YOUR_REPO_3&theme=dark&title_color=00E676&icon_color=58A6FF&bg_color=0D1117&border_color=30363D" alt="Project 3"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=faizansk25&repo=YOUR_REPO_4&theme=dark&title_color=00E676&icon_color=58A6FF&bg_color=0D1117&border_color=30363D" alt="Project 4"/>
-</td>
-</tr>
-</table>
-
-<sub>(Note: Replace YOUR_REPO_1, YOUR_REPO_2, etc., with your actual repository names to showcase your best Data Science/AI projects!)</sub>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
-
-<img src="https://media.giphy.com/media/W5eoZ2xN7Zx1KgTfSj/giphy.gif" width="35"> &nbsp;GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=faizansk25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&icon_color=58A6FF&ring_color=BC8CFF&include_all_commits=true&count_private=true" alt="Faizan's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizansk25&theme=dark&hide_border=true&background=0D1117&ring=00E676&fire=58A6FF&currStreakLabel=00E676&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="Streak Stats" width="48%" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode,docker,aws&amp;perline=8" alt="Tech Stack Icons" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizansk25&bg_color=0D1117&color=58A6FF&line=00E676&point=BC8CFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white" alt="keras"/>
+  <img src="https://img.shields.io/badge/Matplotlib-1152A3?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white" alt="matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="seaborn"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="plotly"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="opencv"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="streamlit"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="flask"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="aws"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00E676&height=2&section=header" width="100%"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35" /> &nbsp;Featured AI & Data Projects
+
+<!-- TODO: Replace YOUR_REPO_1 ... YOUR_REPO_4 with your actual repository names -->
+
+<p align="center">
+  <a href="https://github.com/faizansk25/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizansk25&amp;repo=YOUR_REPO_1&amp;theme=dark&amp;title_color=00E676&amp;icon_color=58A6FF&amp;bg_color=0D1117&amp;border_color=30363D" alt="Repo 1" />
+  </a>
+  <a href="https://github.com/faizansk25/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizansk25&amp;repo=YOUR_REPO_2&amp;theme=dark&amp;title_color=00E676&amp;icon_color=58A6FF&amp;bg_color=0D1117&amp;border_color=30363D" alt="Repo 2" />
+  </a>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=faizansk25&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <a href="https://github.com/faizansk25/YOUR_REPO_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizansk25&amp;repo=YOUR_REPO_3&amp;theme=dark&amp;title_color=00E676&amp;icon_color=58A6FF&amp;bg_color=0D1117&amp;border_color=30363D" alt="Repo 3" />
+  </a>
+  <a href="https://github.com/faizansk25/YOUR_REPO_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizansk25&amp;repo=YOUR_REPO_4&amp;theme=dark&amp;title_color=00E676&amp;icon_color=58A6FF&amp;bg_color=0D1117&amp;border_color=30363D" alt="Repo 4" />
+  </a>
 </p>
 
-<!-- Snake Animation Contribution Graph -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00E676&height=2&section=header" width="100%"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> &nbsp;GitHub Analytics
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/faizansk25/faizansk25/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" />
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=faizansk25&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00E676&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;ring_color=BC8CFF&amp;include_all_commits=true&amp;count_private=true"
+    alt="GitHub Stats"
+    width="48%"
+  />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=faizansk25&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=00E676&amp;fire=58A6FF&amp;currStreakLabel=00E676&amp;sideLabels=C9D1D9&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;dates=C9D1D9"
+    alt="GitHub Streak"
+    width="48%"
+  />
+</p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=faizansk25&label=Profile+Views&color=00E676&style=for-the-badge&label=Visitors" alt="Profile Views" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizansk25&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00E676&amp;text_color=C9D1D9&amp;langs_count=8"
+    alt="Top Languages"
+    width="48%"
+  />
 </p>
 
-<p align="center"><sub>Crafted with ❤️ by Faizan Muktar Shaikh</sub></p>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=faizansk25&amp;bg_color=0D1117&amp;color=58A6FF&amp;line=00E676&amp;point=BC8CFF&amp;area=true&amp;hide_border=true"
+    width="95%"
+    alt="Contribution Graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=faizansk25&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=15&amp;margin-h=15"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00E676&height=2&section=header" width="100%"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="35" /> &nbsp;Certifications & Courses
+
+- 📜 **Data Science with Python** – IBM / Coursera
+- 📜 **Machine Learning Specialization** – Stanford / DeepLearning.AI
+- 📜 **Deep Learning Specialization** – DeepLearning.AI *(In Progress)*
+- 📜 **AWS Cloud Practitioner** – *(Planned)*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00E676&height=2&section=header" width="100%"/>
